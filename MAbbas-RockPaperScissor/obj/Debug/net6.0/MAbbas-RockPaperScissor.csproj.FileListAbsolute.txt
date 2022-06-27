@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\MAbbas-RockPaperScissor\MAbbas-RockPaperScissor\bin\Debug\net6.0\MAbbas-RockPaperScissor.exe
+C:\Users\Dell\source\repos\MAbbas-RockPaperScissor\MAbbas-RockPaperScissor\bin\Debug\net6.0\MAbbas-RockPaperScissor.deps.json
+C:\Users\Dell\source\repos\MAbbas-RockPaperScissor\MAbbas-RockPaperScissor\bin\Debug\net6.0\MAbbas-RockPaperScissor.runtimeconfig.json
+C:\Users\Dell\source\repos\MAbbas-RockPaperScissor\MAbbas-RockPaperScissor\bin\Debug\net6.0\MAbbas-RockPaperScissor.dll
+C:\Users\Dell\source\repos\MAbbas-RockPaperScissor\MAbbas-RockPaperScissor\bin\Debug\net6.0\ref\MAbbas-RockPaperScissor.dll
+C:\Users\Dell\source\repos\MAbbas-RockPaperScissor\MAbbas-RockPaperScissor\bin\Debug\net6.0\MAbbas-RockPaperScissor.pdb
+C:\Users\Dell\source\repos\MAbbas-RockPaperScissor\MAbbas-RockPaperScissor\obj\Debug\net6.0\MAbbas-RockPaperScissor.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\MAbbas-RockPaperScissor\MAbbas-RockPaperScissor\obj\Debug\net6.0\MAbbas-RockPaperScissor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\MAbbas-RockPaperScissor\MAbbas-RockPaperScissor\obj\Debug\net6.0\MAbbas-RockPaperScissor.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\MAbbas-RockPaperScissor\MAbbas-RockPaperScissor\obj\Debug\net6.0\MAbbas-RockPaperScissor.AssemblyInfo.cs
+C:\Users\Dell\source\repos\MAbbas-RockPaperScissor\MAbbas-RockPaperScissor\obj\Debug\net6.0\MAbbas-RockPaperScissor.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\MAbbas-RockPaperScissor\MAbbas-RockPaperScissor\obj\Debug\net6.0\MAbbas-RockPaperScissor.dll
+C:\Users\Dell\source\repos\MAbbas-RockPaperScissor\MAbbas-RockPaperScissor\obj\Debug\net6.0\ref\MAbbas-RockPaperScissor.dll
+C:\Users\Dell\source\repos\MAbbas-RockPaperScissor\MAbbas-RockPaperScissor\obj\Debug\net6.0\MAbbas-RockPaperScissor.pdb
+C:\Users\Dell\source\repos\MAbbas-RockPaperScissor\MAbbas-RockPaperScissor\obj\Debug\net6.0\MAbbas-RockPaperScissor.genruntimeconfig.cache
